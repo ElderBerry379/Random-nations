@@ -2,7 +2,7 @@
 	{
 		"name": "King's Guard",
 		"unitType": "Melee",
-		"uniqueTo": "Gloden Horn",
+		"uniqueTo": "Golden Horn",
 		"replaces": "Knight",
 		"movement": 5,
 		"strength": 30,
@@ -11,7 +11,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+20]% to Flank Attack bonuses","[+20]% Strength decreasing with distance from the capital","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+20]% to Flank Attack bonuses", "[+20]% Strength decreasing with distance from the capital", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	}
 ]
