@@ -15,14 +15,14 @@
 		"introduction": "As an emisarry of the golden horn we welcome you to are beautiful nation.",
 		
 		"neutralHello": "Hail friand",
-		"neutralLetsHearIt": ["What say you?"],
-		"neutralNo": ["No..we beg to differ"],
-		"neutralYes": ["This is excellent"],
+		"neutralLetsHearIt": "What say you?",
+		"neutralNo": "No..we beg to differ",
+		"neutralYes": "This is excellent",
 
 		"hateHello": "How dare you come here",
-		"hateLetsHearIt": ["Spit it out!"],
-		"hateNo": ["That is unacceptable"],
-		"hateYes": ["huph perhaps"],
+		"hateLetsHearIt": "Spit it out!",
+		"hateNo": "That is unacceptable",
+		"hateYes": "huph perhaps",
 		
 		"afterPeace": "Atlast we may florish without your annoyance",
 		"tradeRequest": "We offer a trade that may benefit the both of us",
