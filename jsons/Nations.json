@@ -30,8 +30,8 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [176, 139, 2],
 		"uniqueName": "The Kings Call",
-		"unique": ["[-100]% maintenance costs <for units>","Starts with [Iron Working]","[+1] Sight <for [{Military} {Land}] units>","When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [70]% chance>"]
-		"cities": ["The Golden Horn","The Diamond Peak","The Sapphire Shore","The Emerald Plain","The Onyx Valley","The Opal Star"]
+		"unique": ["[-100]% maintenance costs <for units>","Starts with [Iron Working]","[+1] Sight <for [{Military} {Land}] units>","When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [70]% chance>"],
+		"cities": ["The Golden Horn","The Diamond Peak","The Sapphire Shore","The Emerald Plain","The Onyx Valley","The Opal Star"],
 		"spyNames": ["Bronze", "Iron", "Steel", "Gold", "Silver", "Brass", "Platinum"]
 	}
 ]
