@@ -1,7 +1,7 @@
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
 
 * [horn] (https://thenounproject.com/icon/horn-3783290/) by Eucalyp
-* [raygun] (https://thenounproject.com/term/raygun/11236/) by Dominik Grob
+* [knight-shield] (https://thenounproject.com/icon/knight-4020585/) by Edit Pongrácz
 * [vr] (https://thenounproject.com/term/vr/2334639) by Mahmure Alp
 * [Human cloning ] (https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
 
