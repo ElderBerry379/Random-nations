@@ -8,6 +8,6 @@
 		"cityHealth": 60,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "[+33]% Strength <vs [Siege Tower] units>"]
+		"uniques": ["Destroyed when the city is captured", "[33]% Strength for cities <vs [Ranged] units>"]
 	}
 ]
