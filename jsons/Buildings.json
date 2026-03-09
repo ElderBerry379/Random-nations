@@ -1,12 +1,13 @@
 [
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
+		"name": "Tower Guard",
+		"replaces": "Walls",
 		"uniqueTo": "Golden Horn",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"cost": 120,
+		"cityStrength": 7,
+		"cityHealth": 60,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured", "[+33]% Strength <vs [Siege Tower] units>"]
 	}
 ]
