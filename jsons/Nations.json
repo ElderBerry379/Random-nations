@@ -1,38 +1,37 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Golden horn",
+		"leaderName": "king Orphis",
+		"adjective": ["Golden"],
+		"startBias": ["grass"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "(the blow of a horn) All hali the king",
+		"startIntroPart2": "You are king of the mighty golden horn begin your reign with a golden age ",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Long live the king to war (horn sound)",
+		"attacked": "Fool how dare you attack our beautiful nation!",
+		"defeated": "You had...no honor or glory.",
+		"introduction": "As an emisarry of the golden horn we welcome you to are beautiful nation.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hail friand",
+		"neutralLetsHearIt": ["What say you?"],
+		"neutralNo": ["No..we beg to differ"],
+		"neutralYes": ["This is excellent"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "How dare you come here",
+		"hateLetsHearIt": ["Spit it out!"],
+		"hateNo": ["That is unacceptable"],
+		"hateYes": ["huph perhaps"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Atlast we may florish without your annoyance",
+		"tradeRequest": "We offer a trade that may benefit the both of us",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255, 255, 255],
+		"innerColor": [245, 192, 2],
+		"uniqueName": "The Kings Call",
+		"unique": ["[-100]% maintenance costs <for units>","Starts with [Iron Working]","[+1] Sight <for [{Military} {Land}] units>","When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [70]% chance>"]
+		"cities": ["The Golden Horn","The Diamond Peak","The Sapphire Shore","The Emerald Plain","The Onyx Valley","The Opal Star"]
+		"spyNames": ["Bronze", "Iron", "Steel", "Gold", "Silver", "Brass", "Platinum"]
 	}
 ]
