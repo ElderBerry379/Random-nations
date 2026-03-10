@@ -2,6 +2,6 @@
     {
         "name": "Tawheed",
         "type": "Pantheon",
-        "uniques": ["[+15]% Strength <vs [All] units> <from cities not following a [your] religion>"]
+        "uniques": ["[+15]% Strength <vs [All] units> <in cities not following a [your] religion>"]
     }
 ]    
