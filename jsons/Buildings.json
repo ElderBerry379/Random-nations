@@ -9,5 +9,13 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "[33]% Strength for cities <vs [Ranged] units>"]
-	}
+	},
+	{
+		"name": "Masjid",
+		"cost": 0,
+		"culture": 2,
+		"faith": 3,
+		"happiness": 1,
+		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
+	},
 ]

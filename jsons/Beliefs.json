@@ -2,6 +2,16 @@
     {
         "name": "Tawheed",
         "type": "Pantheon",
-        "uniques": ["[+15]% Strength <in cities not following a [your] religion>"]
+        "uniques": ["Earn [10]% of [Hostile] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion","[+20]% Strength for cities <vs [Military] units>","[[-70]% Natural religion spread [in cities following this religion]"]
+    },
+    {
+        "name": "Zakaat and Hajj",
+        "type": "Founder",
+        "uniques": ["[+2 Gold, +2 Food] for each global city following this religion","[+1 Production, +1 Gold, +2 Culture, +2 Science, +3 Faith] from every [3] global followers [in all cities] <every [1] turns>"]
+    },
+    {
+        "name": "Salah and Sawm",
+        "type": "Follower",
+        "uniques": ["May buy [Masjid] buildings with [Faith] [in cities following this religion]", "[+10]% [Production] from every follower, up to [+100]%" , "[+25]% [Faith] from every follower, up to [+250]%"]
     }
 ]    
