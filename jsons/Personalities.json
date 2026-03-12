@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Amir",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 10,
+      "food": 7,
+      "gold": 5,
+      "happiness": 6,
+      "production": 7,
+      "science": 8,
+      // Behavour focused personalities
+      "military": 8,
+      "aggressive": 5,
+      "declareWar": 7,
+      "commerce": 7,
+      "diplomacy": 6,
+      "loyal": 9,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 9,
+          "Honor": 8,
+          "Commerce": 6,
+          "Patronage": 7,
+          "Piety": 9,
+          "Rationalism": 5,
+          "Freedom": 6,
+          "Autocracy": 5,
+          "Order": 8
+      },
+    }
+]

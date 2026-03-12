@@ -18,4 +18,49 @@
 		"happiness": 1,
 		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	},
+	{
+		"name": "Khanka",
+		"cost": 0,
+		"faith": 6,
+		"happiness": 3,
+		"cityStrength": -2,
+		"greatPersonPoints": {"Great Prophet": 1},
+		"uniques": ["Unbuildable", "Only available <when religion is enabled>", "[-15]% [Production] [in this city]"]
+	},
+	{
+		"name": "Musallah",
+		"replaces": "Shrine",
+		"uniqueTo": "The Khilafa",
+		"faith": 2,
+		"happiness": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Jumah Masjid",
+		"replaces": "Temple",
+		"uniqueTo": "The Khilafa",
+		"maintenance": 2,
+		"uniques": ["Only available <when religion is enabled>",],
+		"faith": 3,
+		"culture": 2,
+		"happiness": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Darul Ifta",
+		"replaces": "Grand Temple",
+		"uniqueTo": "The Khilafa",
+		"cost": 125,
+		"science": 1,
+		"culture": 3,
+		"faith": 5,
+		"uniques": [ "Cost increases by [30] per owned city", "[+100]% Natural religion spread [in this city]", "[+25]% Natural religion spread [in your cities] <in cities with a [Jumah Masjid]>", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
+	},
 ]
