@@ -33,5 +33,40 @@
 		"uniques": ["[-100]% maintenance costs <for [Military] units>", "Starts with [Iron Working]", "[+1] Sight <for [{Military} {Land}] units>", "When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [70]% chance>"],
 		"cities": ["The Golden Horn","The Diamond Peak","The Sapphire Shore","The Emerald Plain","The Onyx Valley","The Opal Star"],
 		"spyNames": ["Bronze", "Iron", "Steel", "Gold", "Silver", "Brass", "Platinum"]
-	}
+	},
+	{
+		"name": "The Khilafa",
+		"leaderName": "Amir al-Mumeneen",
+		"adjective": ["Muslim"],
+		"preferredVictoryType": "Domination",
+		"personality": "Amir",
+		
+		"startIntroPart1": "(the blow of a horn) All hali the king",
+		"startIntroPart2": "You are king of the mighty golden horn begin your reign with a golden age ",
+		
+		"declaringWar": "Long live the king to war (horn sound)",
+		"attacked": "Fool how dare you attack our beautiful nation!",
+		"defeated": "You had...no honor or glory.",
+		"introduction": "As an emisarry of the golden horn we welcome you to are beautiful nation.",
+		
+		"neutralHello": "Hail friand",
+		"neutralLetsHearIt": "What say you?",
+		"neutralNo": "No..we beg to differ",
+		"neutralYes": "This is excellent",
+
+		"hateHello": "How dare you come here",
+		"hateLetsHearIt": "Spit it out!",
+		"hateNo": "That is unacceptable",
+		"hateYes": "huph perhaps",
+		
+		"afterPeace": "Atlast we may florish without your annoyance",
+		"tradeRequest": "We offer a trade that may benefit the both of us",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 0, 0],
+		"favoredReligion": "Islam",
+		"uniqueName": "Ummati Muhammad",
+		"cities":["The Khilafa"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game","May choose [3] additional belief(s) of any type when [enhancing] a religion", "Gain enough Faith for a Pantheon", "Gain a free [Musallah] [in all cities]", "Starts with [Pottery]", "Adopt [Tawheed] <after founding a Pantheon>"],
+	},
 ]
