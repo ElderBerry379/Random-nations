@@ -1,11 +1,11 @@
 [
     {
 		"name": "Mujahid",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
-                    "Earn [1]% of the damage done to [Hostile] units as [Culture]", 
-                    "Earn [10]% of killed [Hostile] unit's [Cost] as [Gold]", 
-                    "Earn [10]% of killed [Hostile] unit's [Cost] as [Science]", 
-                    "[25]% Strength <when fighting in [Enemy] tiles>", 
-                    "Can Spread Religion <when attacking>", "May capture killed [Hostile] units"]
+		"uniques": ["[-5]% Strength for enemy [Hostile] units in adjacent [all] tiles", 
+        "Earn [1]% of the damage done to [Hostile] units as [Culture]", 
+        "Earn [10]% of killed [Hostile] unit's [Cost] as [Gold]", 
+        "Earn [10]% of killed [Hostile] unit's [Cost] as [Science]", 
+        "[25]% Strength <when fighting in [Enemy] tiles>", 
+        "Can Spread Religion <when attacking>","May capture killed [Hostile] units <with [+33]% chance>"]
 	},
 ]

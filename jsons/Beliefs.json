@@ -3,17 +3,25 @@
         "name": "Tawheed",
         "type": "Pantheon",
 
-        "uniques": ["Earn [10]% of [Hostile] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion","[+20]% Strength for cities <vs [Military] units>","[[-70]% Natural religion spread [in cities following this religion]", "Gain control over [unimproved] tiles in a [5]-tile radius"]
+        "uniques": ["Earn [10]% of [Hostile] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion",
+        "[+20]% Strength for cities <vs [Hostile] units>",
+        "[[-70]% Natural religion spread [in cities following this religion]",
+        "Gain control over [unimproved] tiles in a [5]-tile radius <upon founding a city>",]
     },
     {
         "name": "Zakaat and Hajj",
         "type": "Founder",
-        "uniques": ["[+2 Gold, +2 Food] for each global city following this religion","[+1 Production, +1 Gold, +2 Culture, +2 Science, +3 Faith] from every [3] global followers [in all cities]"]
+        "uniques": ["[+2 Gold, +2 Food] for each global city following this religion",
+        "[+1 Production, +1 Gold, +2 Culture, +2 Science, +3 Faith] from every [3] global followers [in all cities]",
+        "[+100]% weight to this choice for AI decisions <after adopting [Tawheed]>"]
     },
     {
         "name": "Salah and Sawm",
         "type": "Follower",
-        "uniques": ["May buy [Masjid] buildings with [Faith] [in cities following this religion]", "[+1]% [Production] from every follower, up to [+100]%" , "[+2]% [Faith] from every follower, up to [+200]%"]
+        "uniques": ["May buy [Masjid] buildings with [Faith] [in cities following this religion]",
+        "[+1]% [Production] from every follower, up to [+100]%",
+        "[+2]% [Faith] from every follower, up to [+200]%",
+        "[+100]% weight to this choice for AI decisions <after adopting [Tawheed]>"]
     },
     {
         "name": "Group Zikr",
@@ -23,11 +31,25 @@
     {
         "name": "Madaris and Halaqaat",
         "type": "Enhancer",
-        "uniques": ["[+2 Faith] from all [Science] buildings <in cities with a [your] religion>", "[+1 Science, +1 Culture] from all [Faith] buildings <in cities with a [your] religion>"]
+        "uniques": ["[+2 Faith] from all [Science] buildings <in cities with a [your] religion>",
+        "[+1 Science, +1 Culture] from all [Faith] buildings <in cities with a [your] religion>",
+        "[+100]% weight to this choice for AI decisions <after adopting [Tawheed]>"]
     },
     {
         "name": "Jihad",
         "type": "Follower",
-        "uniques": ["May buy [All] units with [Faith] for [2] times their normal Production cost", "New [Military] units start with [15] XP [in cities following this religion]", "[Military] units gain the [Mujahid] promotion"]
+        "uniques": ["May buy [all] units with [Faith] for [2] times their normal Production cost",
+        "New [all] units start with [15] XP [in cities following this religion]",
+        "All newly-trained [all] units [in your cities] receive the [Mujahid] promotion",
+        "[+100]% weight to this choice for AI decisions <after adopting [Tawheed]>"]
+    },
+    {
+        "name": "Dawah",
+        "type": "Enhancer",
+        "uniques": ["[300]% Strength <vs cities> <in cities with a [your] religion>",
+        "[-25]% City-State Influence degradation",
+        "Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns",
+        "Resting point for Influence with City-States following this religion [45]",
+        "[+100]% weight to this choice for AI decisions <after adopting [Tawheed]>"]
     },
 ]    

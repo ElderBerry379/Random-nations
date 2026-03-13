@@ -30,8 +30,11 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [176, 139, 2],
 		"uniqueName": "The Kings Call",
-		"uniques": ["[-100]% maintenance costs <for [Military] units>", "Starts with [Iron Working]", "[+1] Sight <for [{Military} {Land}] units>", "When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [70]% chance>"],
-		"cities": ["The Golden Horn","The Diamond Peak","The Sapphire Shore","The Emerald Plain","The Onyx Valley","The Opal Star"],
+		"uniques": ["[-100]% maintenance costs <for [all] units>","Starts with [Iron Working]",
+		"[+1] Sight <for [{Military} {Land}] units>",
+		"When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [70]% chance>"],
+		"cities": ["The Golden Horn","The Diamond Peak","The Sapphire Shore","The Emerald Plain",
+		"The Onyx Valley","The Opal Star"],
 		"spyNames": ["Bronze", "Iron", "Steel", "Gold", "Silver", "Brass", "Platinum"]
 	},
 	{
@@ -67,6 +70,9 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ummati Muhammad",
 		"cities":["The Khilafa"],
-		"uniques": ["\"Borrows\" city names from other civilizations in the game","May choose [3] additional belief(s) of any type when [enhancing] a religion", "Gain enough Faith for a Pantheon", "Gain a free [Musallah] [in all cities]", "Starts with [Pottery]", "Adopt [Tawheed] <after founding a Pantheon>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"Adopt [Tawheed] <upon turn start>",
+		"May choose [2] additional belief(s) of any type when [enhancing] a religion",
+		"Gain enough Faith for a Pantheon", "Gain a free [Musallah] [in all cities]", "Starts with [Pottery]"],
 	},
 ]

@@ -8,7 +8,7 @@
 		"cityHealth": 60,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "[33]% Strength for cities <vs [Ranged] units>"]
+		"uniques": ["Destroyed when the city is captured","[33]% Strength for cities <vs [Ranged] units>"]
 	},
 	{
 		"name": "Masjid",
@@ -25,7 +25,8 @@
 		"happiness": 3,
 		"cityStrength": -2,
 		"greatPersonPoints": {"Great Prophet": 1},
-		"uniques": ["Unbuildable", "Only available <when religion is enabled>", "[-15]% [Production] [in this city]"]
+		"uniques": ["Unbuildable", "Only available <when religion is enabled>",
+		"[-15]% [Production] [in this city]"]
 	},
 	{
 		"name": "Musallah",
@@ -59,7 +60,9 @@
 		"science": 1,
 		"culture": 3,
 		"faith": 5,
-		"uniques": [ "Cost increases by [30] per owned city", "[+100]% Natural religion spread [in this city]", "[+25]% Natural religion spread [in your cities] <in cities with a [Jumah Masjid]>", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+		"uniques": [ "Cost increases by [30] per owned city","[+100]% Natural religion spread [in this city]",
+		"[+25]% Natural religion spread [in your cities] <in cities with a [Jumah Masjid]>",
+		"Only available <when religion is enabled>","Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
