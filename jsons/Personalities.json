@@ -4,11 +4,7 @@
       // Stats focused personalities
       "culture": 8,
       "faith": 10,
-<<<<<<< HEAD
-      "food": 9,
-=======
       "food": 7,
->>>>>>> 75f95ea48784ddd8e1878b1f7f063b22b0a47768
       "gold": 5,
       "happiness": 6,
       "production": 7,
