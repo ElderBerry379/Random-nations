@@ -48,7 +48,7 @@
         "type": "Enhancer",
         "uniques": ["[300]% Strength <vs cities> <in cities with a [your] religion>",
         "[-25]% City-State Influence degradation",
-        "Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns",,
+        "Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns",
         "[+100]% weight to this choice for AI decisions <after adopting [Tawheed]>"]
     },
     {
