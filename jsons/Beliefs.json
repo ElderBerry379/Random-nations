@@ -5,8 +5,7 @@
 
         "uniques": ["Earn [10]% of [Hostile] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion",
         "[+20]% Strength for cities <vs [Hostile] units>",
-        "[[-70]% Natural religion spread [in cities following this religion]",
-        "Resting point for Influence with City-States following this religion [45]"]
+        "[[-70]% Natural religion spread [in cities following this religion]",]
     },
     {
         "name": "Zakaat and Hajj",
@@ -49,13 +48,13 @@
         "uniques": ["[300]% Strength <vs cities> <in cities with a [your] religion>",
         "[-25]% City-State Influence degradation",
         "Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns",
-        "[+100]% weight to this choice for AI decisions <after adopting [Tawheed]>"]
+        "[+100]% weight to this choice for AI decisions <after adopting [Tawheed]>",
+        "Resting point for Influence with City-States following this religion [45]"]
     },
     {
         "name": "Jamaat",
         "type": "Follower",
-        "uniques": ["[300]% Strength <vs cities> <in cities with a [your] religion>",
-        "[Faith] cost of purchasing [Religious] units [-33]%",
+        "uniques": ["[Faith] cost of purchasing [Religious] units [-33]%",
         "New [religious] units start with [30] XP [in cities following this religion]",
         "[[+40]% Natural religion spread [in cities following this religion]"]
     },
