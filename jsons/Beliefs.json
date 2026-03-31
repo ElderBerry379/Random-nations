@@ -5,7 +5,8 @@
 
         "uniques": ["Earn [10]% of [Hostile] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion",
         "[+20]% Strength for cities <vs [Hostile] units>",
-        "[[-70]% Natural religion spread [in cities following this religion]",]
+        "[[-70]% Natural religion spread [in cities following this religion]",
+        "[+1 Happiness] from all [Faith] buildings <in cities with a [your] religion>"]
     },
     {
         "name": "Zakaat and Hajj",
@@ -55,7 +56,7 @@
         "name": "Jamaat",
         "type": "Follower",
         "uniques": ["[Faith] cost of purchasing [Religious] units [-33]%",
-        "New [religious] units start with [30] XP [in cities following this religion]",
+        "New [Religious] units start with [30] XP [in cities following this religion]",
         "[[+40]% Natural religion spread [in cities following this religion]"]
     },
 ]    
